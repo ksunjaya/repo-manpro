@@ -8,7 +8,7 @@ public class Kodingan{
   
   //kerjaan BETTY
   public void B(){
-    
+    System.out.println("Maaf anak saya sakit, nanti lagi saya lanjutin.");
   }
   
   //JANGAN DIMODIF
